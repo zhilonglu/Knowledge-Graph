@@ -17,7 +17,7 @@ All materials related to Knowlegde Graph
 
 ## 学习资源
 * 视频资源
- * [Google知识图谱系列教程](https://www.youtube.com/watch?v=mmQl6VGvX-c&list=PLOU2XLYxmsII2vIhzAyW6eouf62ur2Z2q)
+  * [Google知识图谱系列教程](https://www.youtube.com/watch?v=mmQl6VGvX-c&list=PLOU2XLYxmsII2vIhzAyW6eouf62ur2Z2q)
 
 ## 核心技术
 * 知识抽取
@@ -25,17 +25,25 @@ All materials related to Knowlegde Graph
   * 关系抽取
   * 属性抽取
 * 知识表示
- * 距离模型
- * 单层神经网络模型
- * 双线性模型
- * 神经张量模型
- * 矩阵分解模型
- * 翻译模型
- * 
+  * 距离模型
+  * 单层神经网络模型
+  * 双线性模型
+  * 神经张量模型
+  * 矩阵分解模型
+  * 翻译模型
+    * TransE
+    * TransH
+    * TransR
+    * TransD
+    * TranSparse
+    * TransA
+    * TransG
+    * KG2E
+    * PTransE
 * 知识融合
- * 实体对齐
- * 知识加工
-  * 本体构建
+  * 实体对齐
+  * 知识加工
+    * 本体构建
 * 知识推理
   * 基于逻辑的推理
   * 基于图的推理
@@ -45,25 +53,43 @@ All materials related to Knowlegde Graph
 * 智能搜索
 * 知识图谱补全
 * 深度问答
- * Jacana-Freebase
- * Paralex
+  * Jacana-Freebase
+  * Paralex
 * 社交网络
 * 语义分析
- * SEMPRE
+  * SEMPRE
 
-
-## Models
-* TransE
-* TransH
-* TransR
-* TransD
-* TranSparse
-* TransA
-* TransG
-* KG2E
-* PTransE
-* 
 
 ## Open-source implements
+* [ComplEx](https://github.com/ttrouill/complex "ComplEx")
+* [EbemKG ](https://github.com/pminervini/ebemkg "EbemKG")
+* [HolE](https://github.com/mnick/holographic-embeddings "HolE")
+* [Inferbeddings](https://github.com/uclmr/inferbeddings "Inferbeddings")
+* [KGE-LDA](https://github.com/yao8839836/KGE-LDA "KGE-LDA")
+* [KR-EAR](https://github.com/thunlp/KR-EAR "KR-EAR")
+* [mFold](https://github.com/v-shinc/mFoldEmbedding "mFold")
+* [ProjE](https://github.com/bxshi/ProjE "ProjE")
+* [RDF2Vec](http://data.dws.informatik.uni-mannheim.de/rdf2vec/code/ "RDF2Vec")
+* [Resource2Vec](https://github.com/AKSW/Resource2Vec/tree/master/resource2vec-core "Resource2Vec")
+* [TransE](https://github.com/ZichaoHuang/TransE "TransE")
+* [wiki2vec](https://github.com/idio/wiki2vec "wiki2vec")
 
 
+## Domain experts
+* Antoine Bordes
+* Estevam Rafael Hruschka Junior(Federal University of Sao Carlos)
+* 鲍捷（Memect） 
+* 陈华钧 浙江大学
+* 刘知远 清华大学
+* 秦兵 哈尔滨工业大学
+* 赵军 中科院自动化所
+* 王昊奋 狗尾草智能科技公司 
+* 漆桂林 东南大学
+* 刘  康 中科院自动化所
+* 韩先培 中国科学院软件研究所 
+* 肖仰华 复旦大学 
+
+
+## related List
+* [OpenKE](https://github.com/thunlp/OpenKE)
+* [KRLPapers](https://github.com/thunlp/KRLPapers)
