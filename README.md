@@ -31,10 +31,10 @@ All materials related to Knowlegde Graph
   * 神经张量模型
   * 矩阵分解模型
   * 翻译模型
-    * TransE
-    * TransH
-    * TransR
-    * TransD
+    * [TransE](https://github.com/thunlp/TensorFlow-TransX)
+    * [TransH](https://github.com/thunlp/TensorFlow-TransX)
+    * [TransR](https://github.com/thunlp/TensorFlow-TransX)
+    * [TransD](https://github.com/thunlp/TensorFlow-TransX)
     * TranSparse
     * TransA
     * TransG
