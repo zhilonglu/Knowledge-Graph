@@ -35,11 +35,11 @@ All materials related to Knowlegde Graph
     * [TransH](https://github.com/thunlp/TensorFlow-TransX)
     * [TransR](https://github.com/thunlp/TensorFlow-TransX)
     * [TransD](https://github.com/thunlp/TensorFlow-TransX)
-    * TranSparse
-    * TransA
-    * TransG
-    * KG2E
-    * PTransE
+    * [TranSparse](https://github.com/FrankWork/transparse)
+    * [TransA](https://github.com/wpj2018/KGModel)
+    * [TransG](https://github.com/Niubohan/TransG)
+    * [KG2E](https://github.com/wuqixiaobai/KG2E)
+    * [PTransE](https://github.com/mxl456/pTransE)
 * 知识融合
   * 实体对齐
   * 知识加工
