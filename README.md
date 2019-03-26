@@ -93,3 +93,4 @@ All materials related to Knowlegde Graph
 ## related List
 * [OpenKE](https://github.com/thunlp/OpenKE)
 * [KRLPapers](https://github.com/thunlp/KRLPapers)
+* [awesome knowledge graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
