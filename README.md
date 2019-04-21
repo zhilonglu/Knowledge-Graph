@@ -90,7 +90,10 @@ All materials related to Knowlegde Graph
 * 肖仰华 复旦大学 
 
 
-## related List
+## Related List
 * [OpenKE](https://github.com/thunlp/OpenKE)
 * [KRLPapers](https://github.com/thunlp/KRLPapers)
 * [awesome knowledge graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
+
+## Library
+* [Python library for Representation Learning on Knowledge Graphs](https://github.com/Accenture/AmpliGraph)
