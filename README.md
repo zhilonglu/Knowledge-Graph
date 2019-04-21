@@ -95,5 +95,6 @@ All materials related to Knowlegde Graph
 * [KRLPapers](https://github.com/thunlp/KRLPapers)
 * [awesome knowledge graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 
-## Library
+## Library And Implementary
 * [Python library for Representation Learning on Knowledge Graphs](https://github.com/Accenture/AmpliGraph)
+* [Several knowledge graph representation algorithms implemented with pytorch](https://github.com/jimmywangheng/knowledge_representation_pytorch)
