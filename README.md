@@ -18,6 +18,7 @@ All materials related to Knowlegde Graph
 ## 学习资源
 * 视频资源
   * [Google知识图谱系列教程](https://www.youtube.com/watch?v=mmQl6VGvX-c&list=PLOU2XLYxmsII2vIhzAyW6eouf62ur2Z2q)
+* [北京知识图谱学习小组](https://github.com/memect/kg-beijing)
 
 ## 核心技术
 * 知识抽取
