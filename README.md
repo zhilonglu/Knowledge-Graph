@@ -59,6 +59,13 @@ All materials related to Knowlegde Graph
 * 社交网络
 * 语义分析
   * SEMPRE
+  
+*[医药领域知识图谱](https://github.com/liuhuanyong/QASystemOnMedicalKG)
+*[事理图谱](https://github.com/liuhuanyong/ComplexEventExtraction)
+*[罪名知识图谱](https://github.com/liuhuanyong/CrimeKgAssitant)
+*[中文人物关系知识图谱](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
+*[军事知识图谱](https://github.com/liuhuanyong/QAonMilitaryKG)
+*[京东知识图谱](https://github.com/liuhuanyong/ProductKnowledgeGraph)
 
 
 ## Open-source implements
