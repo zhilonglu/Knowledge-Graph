@@ -81,6 +81,7 @@ All materials related to Knowlegde Graph
 * [Resource2Vec](https://github.com/AKSW/Resource2Vec/tree/master/resource2vec-core "Resource2Vec")
 * [TransE](https://github.com/ZichaoHuang/TransE "TransE")
 * [wiki2vec](https://github.com/idio/wiki2vec "wiki2vec")
+* [pykg2vec](https://github.com/Sujit-O/pykg2vec)
 
 
 ## Domain experts
