@@ -103,6 +103,7 @@ All materials related to Knowlegde Graph
 * [OpenKE](https://github.com/thunlp/OpenKE)
 * [KRLPapers](https://github.com/thunlp/KRLPapers)
 * [awesome knowledge graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
+* [Deep learning for Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)
 
 ## Library And Implementary
 * [Python library for Representation Learning on Knowledge Graphs](https://github.com/Accenture/AmpliGraph)
